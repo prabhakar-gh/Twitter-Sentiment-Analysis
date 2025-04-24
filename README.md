@@ -10,7 +10,7 @@ This project demonstrates the application of deep learning for sentiment analysi
 **PyTorch:** A deep learning framework used for building and training the model. \
 **Pandas:** Used for data manipulation and analysis. Scikit-learn: Used for model evaluation and data splitting. \
 **Wordcloud:** For visualizing the frequent words in the dataset. Seaborn & Matplotlib: For creating visualizations and data exploration. Gradio (Optional): For creating a user interface for the model. \
-**Kaggle API:** For accessing and downloading the dataset. \
+**Kaggle API:** For accessing and downloading the dataset. 
 
 Getting Started Clone the repository:
 
